@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fauzan Aziz</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanaziz0098" alt="fauzanaziz0098" /></a> </p>
-
 - 🔭 I’m currently internship on **PT. Matra Hillindo Teknologi**
 
 - 🌱 I’m currently learning **Website Development with Reactjs, Nestjs, Next.js and Laravel**
