@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzan Aziz</h1>
-- 🔭 I’m currently internship on **PT. Matra Hillindo Teknologi**
+- 🔭 I’m currently a stundent at **SMKN 1 Cibinong**
 
 - 🌱 I’m currently learning **Website Development with Reactjs, Nestjs, Next.js and Laravel**
 
